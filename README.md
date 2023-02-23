@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @julietsawyerr
-- 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning Reactjs
+- 👀 I’m a Reactjs Frontend developer
 - 💞️ I’m looking to collaborate on React projects
 - 📫 Contact me at julietsawyerr@gmail.com
 
