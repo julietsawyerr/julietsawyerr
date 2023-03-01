@@ -1,5 +1,5 @@
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/renderstart.gif?sfvrsn=3d8cfee1_1">
+<h1 align="left">A React Frontend Developer</h1>
+<img align="right" alt="Coding" width="550" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/renderstart.gif?sfvrsn=3d8cfee1_1">
 
 - 👯 I’m looking to collaborate on **React project**
 
