@@ -1,16 +1,17 @@
-<h1 align="left">A React Frontend Developer</h1>
+<h1 align="left">Frontend Developer</h1>
 <img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 
-- 👯 I’m looking to collaborate on **React project**
+👯 I’m looking to collaborate on **React project**
 
-- 💬 Ask me about **Reactjs**
+👯 I have a passion for creating visually appealing, functional, </br> 
+ and secure websites and web applications.
 
-- 📫 How to reach me **julietsawyerr@gmail.com**
+📫 How to reach me **julietsawyerr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/julietsawyerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julietsawyerr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/julietsawyerr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julietsawyerr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
