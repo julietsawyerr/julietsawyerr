@@ -1,5 +1,6 @@
 <h1 align="left">A React Frontend Developer</h1>
-<img align="right" alt="Coding" width="450" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/renderstart.gif?sfvrsn=3d8cfee1_1">
+<img align="right" alt="Coding" height="350" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+
 
 - 👯 I’m looking to collaborate on **React project**
 
