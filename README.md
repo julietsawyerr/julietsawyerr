@@ -1,5 +1,5 @@
 <h1 align="left">A React Frontend Developer</h1>
-<img align="right" alt="Coding" height="350" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="Coding" height="250" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 
 - 👯 I’m looking to collaborate on **React project**
